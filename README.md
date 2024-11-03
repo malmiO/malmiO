@@ -1,8 +1,8 @@
 #  Hello, Welcome to my Github profile
 
 - 👋 Hi, I’m Malmi Oshadhi.
-- 👀 I’m interested in Robotics , AI and Problem Solving
-- 🌱 I’m currently Software Engineering undergraguate at NIBM.
+- 👀 I’m interested in  software development and web development.
+- 🌱 Currently, I am a Software Engineering undergraguate at NIBM.
   
 <!---
 malmiO/malmiO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
