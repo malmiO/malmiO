@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Malmi Oshadhi.
 - 👀 I’m interested in  software development and web development.
-- 🌱 Currently, I am a Software Engineering undergraguate at NIBM.
+- 🌱 Currently, I am a software engineering undergraduate at NIBM.
   
 <!---
 malmiO/malmiO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
